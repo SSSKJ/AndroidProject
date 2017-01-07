@@ -15,7 +15,6 @@ Mongodb
 
 ### 运行指令
 
-mongodb bin目录下运行./mongod启动数据库
 npm start
 
 ### 提醒
